@@ -39,13 +39,13 @@ let total = result - deposit
 total = (parseInt(total * 100)) / 100
 console.log(`Total income: ${total} `);
 ```
-# Education
-* [IT-Academy Educational Center for Programming and High Tech](https://www.it-academy.by/)
+Education
+* **[IT-Academy Educational Center for Programming and High Tech](https://www.it-academy.by/)**
     * website development with HTML, CSS & JAVASCRIPT
-* Geekbrains
+* **Geekbrains**
     * Faculty of Web Development (in progress)
 
 # Languages
-* Russian: native speaker 
-* [British Study Community](https://british-study.kg/): Pre-Intermediate (CEFR A2), B1 in progress
-* EPAM English test result: A2
+* Russian: **native speaker** 
+* [British Study Community](https://british-study.kg/): **Pre-Intermediate (CEFR A2), B1 in progress**
+* EPAM English test result: **A2**
