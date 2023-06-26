@@ -39,7 +39,7 @@ let total = result - deposit
 total = (parseInt(total * 100)) / 100
 console.log(`Total income: ${total} `);
 ```
-Education
+# Education
 * **[IT-Academy Educational Center for Programming and High Tech](https://www.it-academy.by/)**
     * website development with HTML, CSS & JAVASCRIPT
 * **Geekbrains**
