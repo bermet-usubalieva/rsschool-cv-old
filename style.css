@@ -141,11 +141,11 @@ p {
     min-height: 75px;
 }
 
+.footer__rs {
+    width: 100px;
+}
+
 .footer__git {
     font-size: 20px;
     line-height: 32px;
-}
-
-.footer__rs {
-    width: 100px;
 }
